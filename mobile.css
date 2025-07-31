@@ -1,0 +1,29 @@
+@media screen and (max-width: 767.98px) {
+
+  /* Remove vertical line on the left side of even items */
+  #certificate .img-container:nth-child(even)::before {
+    content: none;
+  }
+
+  #certificate .img-container::after {
+    right: calc(var(--bs-gutter-x) * 0.5);
+  }
+
+  #certificate .img-container:nth-child(even)::after {
+    left: calc(var(--bs-gutter-x) * 0.5);
+  }
+
+  /* --- Project section --- */
+  #project .section-content {
+    grid-template-columns: auto;
+  }
+
+  #project .project-flex2 {
+    grid-template-columns: auto;
+    row-gap: 5px;
+  }
+
+  .project-flex2 .blue2 {
+    grid-row: unset;
+  }
+}
