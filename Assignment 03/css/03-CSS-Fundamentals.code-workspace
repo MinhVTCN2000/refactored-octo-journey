@@ -1,0 +1,36 @@
+{
+  "folders": [
+	{
+		"name": "03-CSS-Fundamentals",
+		"path": "../../../drive-download-20240204T145548Z-001/03-CSS-Fundamentals"
+	},
+	{
+		"name": "05-Design",
+		"path": "../../../drive-download-20240204T145548Z-001/05-Design"
+	},
+	{
+		"name": "06-Components",
+		"path": "../../../drive-download-20240204T145548Z-001/06-Components"
+	},
+	{
+		"name": "Lab 12 – Carousel Page",
+		"path": "../../../../Desktop/CSS Hiển thị Flex/Lab/Lab 12 – Carousel Page"
+	},
+	{
+		"name": "học đập",
+		"path": "../../../../Desktop/học đập"
+	},
+	{
+		"name": "Source Code by Lesson",
+		"path": "../../../Source Code by Lesson"
+	},
+	{
+		"name": "Assignment 02",
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Assignment 02",
+    "liveServer.settings.port": 5501
+  }
+}
